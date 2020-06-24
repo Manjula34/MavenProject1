@@ -1,0 +1,8 @@
+com\pages\AdminPage.class
+com\testcases\LoginHrmTestcase.class
+com\testcases\AdminSearchTC.class
+com\testcases\RecuritmentSearchTC.class
+com\linkedin\pages\loginpage.class
+com\pages\loginHrm.class
+com\pages\RecruitmentPage.class
+com\linkedin\testcase\loginTestcase.class
